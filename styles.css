@@ -9,7 +9,7 @@ body {
     display: grid;
     height: 100%;
     width: 100%;
-    grid-template-columns: minmax(160px, 15%) minmax(700px, 85%);
+    grid-template-columns: minmax(220px, 15%) minmax(700px, 85%);
     grid-template-rows: minmax(200px, 20%) minmax(500px, 80%);
 }
 
